@@ -1,4 +1,4 @@
-# Flow
+# Geffe_LFSR
 Chiffrement à flôt basé sur le générateur de Geffe, offrant une implémentation d'une attaque par correlation
 
 
